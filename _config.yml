@@ -49,6 +49,10 @@ defaults:
     values:
       layout: main
   - scope:
+      path: cost
+    values:
+      layout: cost
+  - scope:
       path: docs
     values:
       layout: docs
@@ -61,10 +65,10 @@ defaults:
     values:
       layout: legal
   - scope:
-      path: team
-    values:
-      layout: team
-  - scope:
       type: posts
     values:
       layout: post
+  - scope:
+      path: team
+    values:
+      layout: team
