@@ -1,6 +1,6 @@
 ---
 title: Convox Pricing
-layout: common
+layout: base
 ---
 
 <section class="col-xs-12" id="cost">
